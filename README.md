@@ -1,5 +1,4 @@
 # My-Personal-Site
-Maya's personal site
 
 http://ambomaya.com/
 
