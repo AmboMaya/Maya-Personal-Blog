@@ -7,11 +7,11 @@ Bootstrap Framework
 CSS
 HTML
 Grayscale bootstrap theme by BlackRockDigital
-Hosted in AWS
+AWS
 
 
-This project was my introduction web development using HTML and CSS in 2015. The idea behind it is to build a website while I can learn basic 
-HTML and CSS and build my online portfolio. The content is still quite undecided and is an ongoing process. 
+This is my first introduction project to web development in 2015. The idea behind it is to build a website where I can learn basic 
+HTML and CSS. This site is still far from completion and need  more features to add and other things to improve. 
 
 
 
